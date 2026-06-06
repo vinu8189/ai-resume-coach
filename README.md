@@ -28,7 +28,7 @@ An AI-powered tool that analyzes a resume against a job description and provides
 ---
 
 ## 🏗️ Workflow
-
+'''text 
 Streamlit UI (Front end)
    ↓
 PDF Text Extraction
