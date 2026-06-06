@@ -45,8 +45,8 @@ Gemini LLM
 Structured AI Response  
 ↓  
 Streamlit Output  
-
-+ LangSmith tracks every step
+↓ 
+LangSmith tracks every step
 
 ---
 
