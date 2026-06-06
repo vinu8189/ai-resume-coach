@@ -48,7 +48,7 @@ Streamlit Display
 
 ---
 
-## 📸 Screenshots
+**##** 📸 **Screenshots**
 
 ### UI Landing Page
 
