@@ -51,13 +51,17 @@ Streamlit Display
 ## 📸 Screenshots
 
 ### UI Landing Page
-![UI](./assets/ui.png)
+
+![UI](assets/ui.png)
 
 ### UI Input
-![Input](./assets/input.png)
+
+![Input](assets/input.png)
 
 ### AI Analysis Output
-![Output](./assets/output.png)
+
+![Output](assets/output.png)
 
 ### LangSmith Tracing
-![LangSmith](./assets/tracing.png)
+
+![LangSmith](assets/tracing.png)
