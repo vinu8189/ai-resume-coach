@@ -57,7 +57,7 @@ LangSmith tracks execution
 
 ## 🚀 Next Steps
 
-This is an MVP version. Planned improvements:
+This is an MVP version. Planned improvements are:
 
 ### 📚 Add RAG (Retrieval-Augmented Generation)
 - Store resumes and job descriptions in a vector database
