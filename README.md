@@ -45,3 +45,19 @@ Structured Output
 Streamlit Display
 
 + LangSmith tracking (Observability)
+
+---
+
+## 📸 Screenshots
+
+### UI Landing page
+![UI](assets/ui.png)
+
+### UI Input
+![UI](assets/input.png)
+
+### AI Analysis Output
+![Result](assets/output.png)
+
+### LangSmith Tracing
+![LangSmith](assets/tracing.png)
