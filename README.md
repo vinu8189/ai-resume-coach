@@ -29,8 +29,6 @@ An AI-powered tool that analyzes a resume against a job description and provides
 
 ## 🏗️ Workflow
 
-## 🏗️ Workflow
-
 Streamlit UI ➜ PDF Extraction ➜ Resume + JD ➜ LangChain ➜ Gemini ➜ Output ➜ Streamlit
 
 LangSmith tracks execution
