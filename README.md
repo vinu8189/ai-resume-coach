@@ -1,76 +1,47 @@
-# 💼 AI Resume Coach (LangChain + Gemini + LangSmith)
+# 💼 AI Resume Coach
 
-An AI-powered resume analyzer that compares a resume with a job description and generates structured insights like match score, missing skills, interview questions, and improvement suggestions.
-
-Built as a learning project to explore **LLM applications, LangChain workflows, and observability with LangSmith**.
+An AI-powered tool that analyzes a resume against a job description and provides a match score, missing skills, and interview insights using LLMs.
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 - Upload resume (PDF)
 - Paste job description
-- AI-based resume vs job matching
+- AI-based match analysis
 - Skill gap detection
-- Interview question generation
-- Difficulty estimation
-- Structured AI insights
-- LangSmith tracing for debugging & observability
+- Interview questions
+- Improvement suggestions
+- LangSmith tracing enabled
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 - Python
-- Streamlit (UI)
+- Streamlit
 - LangChain
 - Google Gemini API
-- LangSmith (Observability)
-- PyPDF (PDF text extraction)
+- LangSmith
+- PyPDF
 
 ---
 
-## 🏗️ How it works
+## 🏗️ Workflow
 
 ```text
-Streamlit UI
+Streamlit UI (Front end)
    ↓
-PDF Extraction (PyPDF)
+PDF Text Extraction
    ↓
-Text + Job Description
+Resume + Job Description
    ↓
 LangChain Prompt
    ↓
-Gemini LLM
+Gemini LLM (AI model)
    ↓
-Structured AI Response
+Structured Output
    ↓
-Streamlit Output
+Streamlit Display
 
-+ LangSmith tracks every step
-
----
-
-# 📥 Input
-
-### Resume
-- PDF file uploaded via Streamlit
-
-### Job Description
-- Pasted as text input
-
----
-
-# 📤 Output
-
-The AI generates:
-
-- Match score
-- Strengths
-- Missing skills
-- Interview difficulty level
-- Suggested interview questions
-- Improvement recommendations
-
----
-
++ LangSmith tracking (Observability)
