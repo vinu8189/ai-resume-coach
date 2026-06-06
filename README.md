@@ -30,23 +30,24 @@ Built as a learning project to explore **LLM applications, LangChain workflows, 
 
 ---
 
-# 🏗️ How it works
+## 🏗️ How it works
 
-Streamlit UI  
-↓  
-PDF Extraction (PyPDF)  
-↓  
-Text + Job Description  
-↓  
-LangChain Prompt  
-↓  
-Gemini LLM  
-↓  
-Structured AI Response  
-↓  
-Streamlit Output  
-↓ 
-LangSmith tracks every step
+```text
+Streamlit UI
+   ↓
+PDF Extraction (PyPDF)
+   ↓
+Text + Job Description
+   ↓
+LangChain Prompt
+   ↓
+Gemini LLM
+   ↓
+Structured AI Response
+   ↓
+Streamlit Output
+
++ LangSmith tracks every step
 
 ---
 
