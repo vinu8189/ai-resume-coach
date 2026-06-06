@@ -52,3 +52,37 @@ LangSmith tracks execution
 ### LangSmith Tracing
 
 ![LangSmith](assets/tracing.png)
+
+--- 
+
+## 🚀 Next Steps
+
+This is an MVP version. Planned improvements:
+
+### 📚 Add RAG (Retrieval-Augmented Generation)
+- Store resumes and job descriptions in a vector database
+- Improve context-aware matching using embeddings
+- Enable smarter, more accurate skill gap analysis
+
+### 🧠 Integrate Vector Database
+- Use tools like FAISS / ChromaDB
+- Store past resumes and job descriptions
+- Enable similarity search between resumes and roles
+
+### 🔍 Improve Search & Matching
+- Add semantic search for job-resume matching
+- Rank relevance of skills instead of rule-based scoring
+- Compare multiple resumes for same job
+
+### 📊 Better Output Structuring
+- Add structured scoring system (match %, skill gap score)
+- Improve explanation quality using structured prompts
+
+### 🌐 Deployment
+- Deploy on Streamlit Cloud / Render
+- Add public demo link
+
+### 🧪 Experimentation
+- Try different models (Gemini vs open-source like Phi-3)
+- Improve prompt engineering for better accuracy
+- Add LangSmith evaluation datasets
